@@ -4,6 +4,8 @@
 
 This is the Current Stock of the Bamazon MySQL 'Warehouse'
 
+![Alt text] (/images/initialStock.PNG?raw=true "TITLE")
+
 1. Run the BamazonCustomer.js file in Git Bash
 
 2. You will see the item ID, name and price listed
