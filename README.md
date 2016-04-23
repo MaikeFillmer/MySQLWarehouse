@@ -15,4 +15,7 @@ This is the Current Stock of the Bamazon MySQL 'Warehouse'
 4. If there are not enough items in stock, you will receive a warning
 ![warning] (/images/notenough.PNG?raw=true "Warning")
 5. If there are enough items in stock, you will receive the total price of your order and the Bamazon MySQL 'Warehouse' listing will update
+![cost] (/images/cost.PNG?raw=true "cost")
+
+Notice that the amount of pens in stock went from 50 originally to 38, as the customer ordered 12 pens.
 ![final stock] (/images/finalStock.PNG?raw=true "Final Stock")
