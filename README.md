@@ -1,4 +1,4 @@
-# week12HW Project
+# MySQL Warehouse
 
 ## How this Program Works
 
